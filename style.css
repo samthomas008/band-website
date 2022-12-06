@@ -1,0 +1,12 @@
+@font-face {
+  font-family: ParamoreAlbum;
+  src: url("./fonts/ParamoreAlbum.ttf");
+}
+
+.display-font {
+  font-family: "ParamoreAlbum", sans-serif;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+}
