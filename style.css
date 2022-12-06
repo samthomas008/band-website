@@ -10,3 +10,8 @@
 .navbar-brand {
   font-size: 2rem;
 }
+
+.video {
+  width: 100%;
+  aspect-ratio: 16/9;
+}
