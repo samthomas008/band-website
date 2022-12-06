@@ -29,6 +29,11 @@
 .tour-card {
   width: 85%;
 }
+
+.icons {
+  width: 275px;
+}
+
 @media only screen and (max-width: 768px) {
   .hero > span {
     font-size: 6rem;
